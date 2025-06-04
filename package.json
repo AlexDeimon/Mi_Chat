@@ -12,7 +12,8 @@
   "author": "Diego Sandoval (AlexDeimon)",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.3.1",
+    "@libsql/client": "^0.15.8",
+    "dotenv": "^16.5.0",
     "express": "4.18.2",
     "morgan": "1.10.0",
     "socket.io": "4.7.2"
